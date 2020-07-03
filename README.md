@@ -11,3 +11,5 @@ Sequelize
   yarn sequelize db:migrate
     yarn sequelize db:migrate:undo
     yarn sequelize db:migrate:undo:all
+
+Multer (upload de arquivos)
